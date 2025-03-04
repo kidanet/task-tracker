@@ -1,5 +1,6 @@
-# Task Tracker CLI, developed by Tseggai Kidane 
-A retired technologist, showcasing Git and GitHub expertise.
+# Task Tracker CLI
+
+Developed by Tseggai Kidane, a retired technologist, showcasing his Git and GitHub expertise.
 
 A simple command-line tool to manage daily tasks, built to demonstrate Git and GitHub proficiency through branching, commits, and pull requests.
 
